@@ -1,5 +1,7 @@
 # DSA Practice - Daily Problem Tracker
 
+> Previously solved 49 problems (Apr-Jul 2025). Restarting with structured tracking.
+
 ## Progress
 - Total Solved: 0
 - Current Streak: 0 days
