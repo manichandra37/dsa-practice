@@ -12,6 +12,8 @@
 |-----|----------|---------|------------|---------|-----|-----------|---------|
 | 1   | 4/5/2026 | Two sum |     #1     | HashMap | 🔴  |          |         |
 |     |          |  Stokes |     #121   | Track minimum so far | 🔴 | 
+|2|4/6/2026| Contains Duplicate | #217| hashmap | 🟡
+| | | Valid Anagram| #242 | Frequency Count using HashMap| 🔴
 
 ## Tags
 - 🟢 Solved < 15 min, no hints → revisit in 2 weeks
