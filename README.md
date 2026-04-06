@@ -8,9 +8,10 @@
 
 ## Tracking
 
-| Day | Date | Problem | LeetCode # | Pattern | Tag | Redo Date | 2nd Tag |
-|-----|------|---------|------------|---------|-----|-----------|---------|
-| 1 | | | | | | | |
+| Day |   Date   | Problem | LeetCode # | Pattern | Tag | Redo Date | 2nd Tag |
+|-----|----------|---------|------------|---------|-----|-----------|---------|
+| 1   | 4/5/2026 | Two sum |     #1     | HashMap | 🔴  |          |         |
+|     |          |  Stokes |     #121   | Track minimum so far | 🔴 | 
 
 ## Tags
 - 🟢 Solved < 15 min, no hints → revisit in 2 weeks
